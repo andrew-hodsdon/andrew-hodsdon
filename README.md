@@ -16,13 +16,6 @@ than thin wrappers around a single provider.
 - **Platform engineering** — Next.js apps, API design, Google Cloud
   infrastructure, Terraform, and GitHub-based change control.
 
-### Current engagements
-
-- **Sabai Global** — full Claude platform implementation; first use case
-  is automated document comparison and generation.
-- **JBC3 LLC** — AI system analyzing real estate development proposals
-  against state and municipal zoning regulations.
-
 ### Stack
 
 TypeScript · Next.js · Python · Google Cloud · Terraform · Claude API ·
